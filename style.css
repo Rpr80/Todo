@@ -1,0 +1,43 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color: darkkhaki;
+    background-image: url(image.jpg);
+    background-size: cover;
+}
+.container{
+    padding: 10px;
+    border: 3px solid black;
+    width: 40%;
+    margin: auto;
+    background-color: darkkhaki;
+   border-top-left-radius: 0lvw;
+    font-size: -webkit-xxx-large;
+}
+}
+.container .input{
+    width: 87%;
+    height: 20px;
+}
+.container .btn{
+width: 80px;
+height: 25px;
+background-color: blueviolet;
+}
+.container ul{
+    list-style: none;
+    padding: 5px;
+}
+.container li{
+    color: brown;
+}
+.container li a{
+    float: right;
+    color: #000;
+    text-decoration: none;
+    font-weight: bold;
+}
+.container #error{
+    color: red;
+    font-size: 14px;
+}
+
